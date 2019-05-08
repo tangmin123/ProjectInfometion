@@ -13,5 +13,8 @@ namespace SiliconValley.InformationSystem.Web.Areas.dalei.Controllers
         {
             return View();
         }
+        public ActionResult show() {
+            return null;
+        }
     }
 }
