@@ -204,6 +204,8 @@
     <Compile Include="Areas\Base_SysManage\Controllers\CityController.cs" />
     <Compile Include="Areas\Base_SysManage\Controllers\CommonController.cs" />
     <Compile Include="Areas\Base_SysManage\Controllers\RapidDevelopmentController.cs" />
+    <Compile Include="Areas\dalei\Controllers\Demo1Controller.cs" />
+    <Compile Include="Areas\dalei\daleiAreaRegistration.cs" />
     <Compile Include="Common\SystemMenuManage.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -257,6 +259,7 @@
     <Content Include="Areas\Base_SysManage\Views\Common\ShowBigImg.cshtml" />
     <Content Include="Areas\Base_SysManage\Views\RapidDevelopment\Form.cshtml" />
     <Content Include="Areas\Base_SysManage\Views\RapidDevelopment\Index.cshtml" />
+    <Content Include="Areas\dalei\Views\web.config" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\business\requestbusiness.js" />
     <Content Include="Scripts\config.js" />
@@ -747,6 +750,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\dalei\Models\" />
+    <Folder Include="Areas\dalei\Views\Demo1\" />
+    <Folder Include="Areas\dalei\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
