@@ -1,0 +1,16 @@
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\obj\Debug\03.SiliconValley.InformationSystem.Entity.csprojAssemblyReference.cache
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\obj\Debug\03.SiliconValley.InformationSystem.Entity.csproj.CoreCompileInputs.cache
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\SiliconValley.InformationSystem.Entity.dll.config
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\SiliconValley.InformationSystem.Entity.dll
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\SiliconValley.InformationSystem.Entity.pdb
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\Elasticsearch.Net.dll
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\EntityFramework.dll
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\EntityFramework.SqlServer.dll
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\Nest.dll
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\Elasticsearch.Net.xml
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\EntityFramework.xml
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\EntityFramework.SqlServer.xml
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\bin\Debug\Nest.xml
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\obj\Debug\03.SiliconValley.InformationSystem.Entity.csproj.CopyComplete
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\obj\Debug\SiliconValley.InformationSystem.Entity.dll
+H:\硅谷高科信息化建设\项目框架\SiliconValley.InformationSystem\SiliconValley.InformationSystem.Entity\obj\Debug\SiliconValley.InformationSystem.Entity.pdb
